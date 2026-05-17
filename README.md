@@ -9,7 +9,7 @@ Modern cinematic landing page with:
 - responsive layout
 - modern CTA buttons
 
-![Landing Page](./New folder/front.png)
+![Landing Page](./Newfolder/front.png)
 
 ---
 
@@ -22,7 +22,7 @@ Interactive farmer dashboard with:
 - quick access modules
 - analytics overview
 
-![Dashboard](./New folder/home.png)
+![Dashboard](./Newfolder/home.png)
 
 ---
 
@@ -35,7 +35,7 @@ AI-powered crop disease analysis system:
 - treatment recommendations
 - seed and pesticide suggestions
 
-![Crop Scan](./New folder/plant.png)
+![Crop Scan](./Newfolder/plant.png)
 
 ---
 
@@ -52,7 +52,7 @@ Features:
 - voice-based farming guidance
 - futuristic orb interface
 
-![Voice AI](./New folder/ai.png)
+![Voice AI](./Newfolder/ai.png)
 
 ---
 
