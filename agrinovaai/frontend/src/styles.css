@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+  background: #03190f;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  background:
+    radial-gradient(circle at 15% 10%, rgba(49, 217, 114, 0.18), transparent 28rem),
+    radial-gradient(circle at 85% 18%, rgba(91, 141, 239, 0.12), transparent 24rem),
+    linear-gradient(135deg, #03190f 0%, #061f15 45%, #020806 100%);
+  color: #f4fff8;
+}
+
+.glass {
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.05));
+  box-shadow: 0 24px 80px rgba(0, 0, 0, 0.28);
+  backdrop-filter: blur(22px);
+}
+
+.premium-border {
+  position: relative;
+}
+
+.premium-border::before {
+  content: "";
+  position: absolute;
+  inset: -1px;
+  border-radius: inherit;
+  padding: 1px;
+  background: linear-gradient(135deg, rgba(49, 217, 114, 0.9), rgba(101, 163, 13, 0.05), rgba(148, 240, 190, 0.42));
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  pointer-events: none;
+}
+
+.scan-grid {
+  background-image:
+    linear-gradient(rgba(49, 217, 114, 0.13) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(49, 217, 114, 0.13) 1px, transparent 1px);
+  background-size: 32px 32px;
+}
+
+.orb {
+  animation: pulseOrb 2.5s ease-in-out infinite;
+}
+
+@keyframes pulseOrb {
+  0%, 100% { transform: scale(1); box-shadow: 0 0 40px rgba(49, 217, 114, 0.35); }
+  50% { transform: scale(1.05); box-shadow: 0 0 86px rgba(49, 217, 114, 0.65); }
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(49, 217, 114, 0.35);
+  border-radius: 999px;
+}
