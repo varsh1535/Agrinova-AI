@@ -42,7 +42,7 @@ severity level
 treatment suggestions
 fertilizer/pesticide recommendations
 
-![Crop Scan](./Newfolder/plant.png)
+![Crop Scan](./New%20folder/plant.png)
 
 ---
 
@@ -61,7 +61,7 @@ elderly farmers
 low-literacy users
 regional farmers
 
-![Crop Scan](./New%20folder/ai.png)
+![Voice AI](./New%20folder/ai.png)
 
 
 ---
