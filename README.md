@@ -9,7 +9,7 @@ Modern cinematic landing page with:
 - responsive layout
 - modern CTA buttons
 
-![Landing Page](.Newfolder/front.png)
+![Landing Page](./New%20folder/front.png)
 
 ---
 
