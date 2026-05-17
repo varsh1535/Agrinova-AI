@@ -1,18 +1,23 @@
-# 📸 UI Preview
+🌱 AgriNova AI
 
-## 🌐 Landing Page
+Scan. Predict. Grow.
+AI-powered precision agriculture ecosystem for regional farmers.
 
-Modern cinematic landing page with:
-- fullscreen agriculture drone background
-- glassmorphism navbar
-- startup-grade hero section
-- responsive layout
-- modern CTA buttons
+AgriNova AI is a full-stack agritech intelligence platform that helps farmers detect crop diseases early, receive multilingual farming guidance, track weather and mandi prices, and access predictive agriculture insights through AI.
+
+The platform combines:
+
+AI crop disease detection
+Voice-guided farming assistance
+Predictive analytics
+Agriculture dashboards
+Community collaboration
+Dockerized cloud-ready infrastructure
 
 ![Landing Page](./New%20folder/front.png)
 
 ---
-
+🚀 Features
 ## 📊 Farmer Dashboard
 
 Interactive farmer dashboard with:
@@ -22,61 +27,66 @@ Interactive farmer dashboard with:
 - quick access modules
 - analytics overview
 
-![Dashboard](./Newfolder/home.png)
+![Dashboard](./New%20folder/home.png)
 
 ---
 
-## 🌱 AI Crop Disease Detection
-
-AI-powered crop disease analysis system:
-- upload/capture crop image
-- disease prediction
-- confidence analysis
-- treatment recommendations
-- seed and pesticide suggestions
+🌾 AI Crop Disease Detection
+Upload or capture crop images
+AI analyzes crop health
+Detects diseases using computer vision
+Returns:
+disease name
+confidence score
+severity level
+treatment suggestions
+fertilizer/pesticide recommendations
 
 ![Crop Scan](./Newfolder/plant.png)
 
 ---
 
-## 🎤 Multilingual Voice AI Assistant
+🎤 Multilingual Voice Assistant
 
-Voice-guided farming assistant supporting:
-- Kannada
-- Hindi
-- English
+Supports:
 
-Features:
-- speech recognition
-- conversational AI
-- voice-based farming guidance
-- futuristic orb interface
+Kannada
+Hindi
+English
+Tamil
 
-![Voice AI](./Newfolder/ai.png)
+Voice-first interaction helps:
 
----
+elderly farmers
+low-literacy users
+regional farmers
 
-# 🎨 UI Design Philosophy
+![Crop Scan](./New%20folder/ai.png)
 
-AgriNova AI follows a:
-- modern SaaS dashboard aesthetic
-- futuristic agritech visual identity
-- dark green AI theme
-- glassmorphism interface style
-
-The platform is designed to feel:
-- scalable
-- production-ready
-- startup-grade
-- accessible for regional farmers
 
 ---
 
-# 🖼 Screenshots Folder Structure
+📈 Predictive Agriculture Intelligence
+Crop risk prediction
+Disease outbreak analytics
+Yield forecasting
+Smart farming insights
+🌦 Weather & Market Integration
+Hyperlocal weather updates
+Rainfall alerts
+Mandi price tracking
+Crop-specific recommendations
+📊 Analytics Dashboard
 
-```text
-Newfolder/
-├── ai.png
-├── front.png
-├── home.png
-└── plant.png
+Professional dashboard with:
+
+KPI cards
+Disease heatmaps
+Farmer analytics
+Yield trends
+AI insights
+👨‍🌾 Farmer Community
+Share farming tips
+Community discussions
+Like/comment system
+Crop issue discussions
